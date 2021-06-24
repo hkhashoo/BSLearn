@@ -1,2 +1,2 @@
-# LearnWork
-This is just a repository where I report stuff that i code to learn different things. This may or may not contain plagiarized code (which is mentioned). 
+# Learnt_Bootstrap
+Just a repository for my learn bootstrap work. Dont worry nothing special :)
